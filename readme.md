@@ -1,4 +1,4 @@
-# Shipping Information
+# 1. Shipping Information
 
 ### Sender:
 ```
@@ -24,8 +24,9 @@ Pulau Pinang.
 017-4026354
 ```
 
+<br>
 
-# Extra Information
+# 2. Extra Information
 
 ### Business Name
 ```
@@ -46,4 +47,3 @@ IG 51202150030
 ```
 tct.penang@gmail.com
 ```
-s
