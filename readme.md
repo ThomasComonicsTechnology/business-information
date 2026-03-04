@@ -1,11 +1,11 @@
 ## 1. Shipping Information
 
-### Sender:
+#### Sender:
 ```
 TCT Comonics Tech
 ```
 
-### Address:
+#### Address:
 ```
 32-12B, Ara Greens Apartments,
 ```
@@ -19,7 +19,7 @@ Lintang Sungai Ara 9,
 Pulau Pinang.
 ```
 
-### Contact Number
+#### Contact Number
 ```
 017-4026354
 ```
@@ -28,22 +28,22 @@ Pulau Pinang.
 
 ## 2. Extra Information
 
-### Business Name
+#### Business Name
 ```
 THOMAS COMONICS TECHNOLOGY
 ```
 
-### SSM Registration Number
+#### SSM Registration Number
 ```
 202403278951 (003660184-W)
 ```
 
-### Tax Identification Number
+#### Tax Identification Number
 ```
 IG 51202150030
 ```
 
-### Email Address:
+#### Email Address:
 ```
 tct.penang@gmail.com
 ```
