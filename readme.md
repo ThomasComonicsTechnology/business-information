@@ -1,4 +1,4 @@
-# 1. Shipping Information
+## 1. Shipping Information
 
 ### Sender:
 ```
@@ -26,7 +26,7 @@ Pulau Pinang.
 
 <br>
 
-# 2. Extra Information
+## 2. Extra Information
 
 ### Business Name
 ```
